@@ -1,6 +1,5 @@
 # Service Oriented Architecture Implementation - Palindrome Web Service (SOAP) # 
 
-
 1. Just import the zip files using Netbeans (File> Import Project> From ZIP)
 2. Do t for both ChowdurySevice and ChowdhuryClient
 3. Right click on the ChowdhuryClient project and click Deploy
