@@ -10,8 +10,3 @@
 
 ### Disclaimer: ###
 The programme works on its own. Problem starts when we enter a WSDL URL which has different java class and package name. I doubt that the sending the string to newURL using the variables and package name such as com.palindrome will let us use the service on other URLs. All the web services then need to have the same implementation class names. In this project its com.palindrome.PalindromeCheck.
-
-
-
-
-
