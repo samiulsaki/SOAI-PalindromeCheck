@@ -3,7 +3,7 @@
 
 1. Just import the zip files using Netbeans (File> Import Project> From ZIP)
 2. Do t for both ChowdurySevice and ChowdhuryClient
-3. Right click on the ChowdhuryClient project and click Deploy
+3. Right click on the ChowdhuryService project and click Deploy to deploy it on the GlassFish server.
 4. Right click on the ChowdhuryClient project and click run
 5. The client programme will open in your default web browser
 
